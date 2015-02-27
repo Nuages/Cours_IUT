@@ -1,0 +1,10 @@
+Commandes utiles sur git :
+- git status
+- git add
+- git log
+- git commit
+- git merge
+- git checkout -b 'mabranch'
+- git push
+- git pull
+
